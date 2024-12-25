@@ -74,7 +74,7 @@ header {
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
-  min-height: 100vh;
+  min-height: 70vh;
   padding: 2rem 9%;
 }
 .heading {
@@ -451,8 +451,8 @@ header .navbar ul li a:hover {
 .project-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-  gap: 20px;
+  justify-content:center;
+  gap: 80px;
 }
 
 .project-card {
@@ -460,7 +460,7 @@ header .navbar ul li a:hover {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  width: 400px;
+  width: 300px;
   text-align: center;
   transition: transform 0.3s ease-in-out;
 }
@@ -476,8 +476,8 @@ header .navbar ul li a:hover {
 
 .project-img {
   width: 100%;
-  height: 400px;
-  object-fit: fill;
+  height: 200px;
+  object-fit: cover;
 }
 .project-btn{
   padding-bottom: 15px;
