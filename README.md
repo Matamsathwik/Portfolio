@@ -48,17 +48,13 @@ Portfolio/
 └── README.md         # Project documentation
 ```
 
-## Screenshots
-![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+of+Portfolio)  
-*Replace this placeholder with an actual screenshot of your portfolio.*
-
 ## Live Demo
 Check out the live version of the website here: [Portfolio Website](https://matamsathwik.github.io/Portfolio)
 
 ## Contact
 Feel free to reach out to me if you have any questions or feedback:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [matamsathwik27@gmail.com](mailto:matamsathwik27@gmail.com)
 - LinkedIn: [Matam Sathwik](https://linkedin.com/in/your-profile)
 - GitHub: [Matam Sathwik](https://github.com/Matamsathwik)
 
